@@ -1,0 +1,10 @@
+# Ignore all
+*
+# Except
+!.gitignore
+!.zshrc
+!.bashrc
+!.bash_profile
+!.bash_login
+!.bash_logout
+!.config
